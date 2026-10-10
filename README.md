@@ -117,12 +117,12 @@ Example:
 
 ### E-Commerce App
 
-![Pizza Website UI]([images/ecommerce-app.png](https://github.com/ARVibez/figma-works/blob/main/content%20frame.jpg))
+![Pizza Website UI]((https://github.com/ARVibez/figma-works/blob/main/content%20frame.jpg))
 
 ### Coffee Shop Website
 
-![Coffee Shop App UI]([images/coffee-shop.png](https://github.com/ARVibez/figma-works/blob/main/coffe%20shop%20app.jpg))
+![Coffee Shop App UI]((https://github.com/ARVibez/figma-works/blob/main/coffe%20shop%20app.jpg))
 
 ### Food Ordering App
 
-![Delivery  App UI]([images/food-ordering.png](https://github.com/ARVibez/figma-works/blob/main/delivery%20app.jpg))
+![Delivery  App UI]((https://github.com/ARVibez/figma-works/blob/main/delivery%20app.jpg))
